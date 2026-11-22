@@ -3,7 +3,7 @@
 Pacchetti di aggiornamento di GigaWALL, scaricati automaticamente dai router.
 I pacchetti sono cifrati e `latest.json` è firmato: i router installano solo rilasci autentici.
 
-Ultima versione: **1.10.17** (2026-11-21)
+Ultima versione: **1.10.18** (2026-11-22)
 
 Installazione su un Ubuntu Server appena installato:
 
