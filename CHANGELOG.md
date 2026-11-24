@@ -3,6 +3,10 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.12.07 - 24/11/2026
+- Aggiornamenti: riquadri di avanzamento ed esito sempre visibili
+- Aggiorna ora risulta manuale nello storico
+
 ## 1.12.06 - 24/11/2026
 - Backup su GitHub 20 secondi dopo ogni modifica salvata dal pannello, anche senza Applica
 
