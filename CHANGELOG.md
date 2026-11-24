@@ -3,6 +3,11 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.12.08 - 24/11/2026
+- Applica senza conto alla rovescia: la configurazione resta confermata subito
+- Installazione dalla ISO anche senza rete
+- ISO con chiave SSH per gwadmin
+
 ## 1.12.07 - 24/11/2026
 - Aggiornamenti: riquadri di avanzamento ed esito sempre visibili
 - Aggiorna ora risulta manuale nello storico
