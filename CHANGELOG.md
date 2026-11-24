@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.12.14 - 24/11/2026
+- Pannello: messaggio Salvato senza vale subito
+
 ## 1.12.13 - 24/11/2026
 - Wifi: access point ripristinato con le versioni precedenti tolto dagli adottati
 - Riadozione come AP nuovo
