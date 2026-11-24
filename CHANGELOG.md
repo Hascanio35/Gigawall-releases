@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.12.05 - 24/11/2026
+- Pannello: pulsante Note di rilascio con lo storico di tutte le versioni
+
 ## 1.12.04 - 24/11/2026
 - Barra di avanzamento degli aggiornamenti con le fasi
 
