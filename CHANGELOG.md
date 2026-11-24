@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.12.11 - 24/11/2026
+- Wifi: access point ripristinato solo tra gli adottati, con Adotta di nuovo
+
 ## 1.12.10 - 24/11/2026
 - Aggiornamenti: versione e bottoni su una sola riga
 
