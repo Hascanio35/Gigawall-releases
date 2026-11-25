@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.03 - 25/11/2026
+- Wifi Cambium cnPilot: l'annullamento del riavvio di sicurezza viene anche attivato sull'access point
+
 ## 1.13.02 - 25/11/2026
 - Wifi Cambium cnPilot: rete dell'AP (indirizzo, subnet, gateway, DNS) dal pannello con ritorno automatico
 - Fuso orario di GigaWALL
