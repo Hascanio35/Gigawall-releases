@@ -3,6 +3,12 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.02 - 25/11/2026
+- Wifi Cambium cnPilot: rete dell'AP (indirizzo, subnet, gateway, DNS) dal pannello con ritorno automatico
+- Fuso orario di GigaWALL
+- Larghezza di canale nelle colonne
+- Adotta tutti i Cambium
+
 ## 1.13.01 - 25/11/2026
 - Wifi: access point Cambium cnPilot gestiti da GigaWALL (reti wifi e radio)
 - Un AP in attesa non visto da 5 minuti esce dall'elenco
