@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.12.20 - 25/11/2026
+- Wifi: access point Cambium cnPilot letti in SSH (sola lettura): stato, canali e client
+
 ## 1.12.19 - 25/11/2026
 - Protezione: un IP bloccato puo' comunque fare la VPN (IKE ed ESP) sulle WAN con una VPN attiva
 
