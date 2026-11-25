@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.12.18 - 25/11/2026
+- Registro navigazione: nascoste le richieste DNS dei server DNS della rete (restano registrate)
+
 ## 1.12.17 - 24/11/2026
 - Aggiornamenti: la barra di avanzamento compare sempre
 
