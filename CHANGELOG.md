@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.08 - 26/11/2026
+- Collegato al portale centrale, gli avvisi li invia il portale: la pagina Notifiche e-mail resta ma oscurata
+
 ## 1.13.07 - 26/11/2026
 - Il portale centrale può aprire il pannello del firewall senza altra password (si può vietare in Manutenzione, Portale centrale)
 
