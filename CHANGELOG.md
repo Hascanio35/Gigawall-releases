@@ -3,6 +3,11 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.15 - 26/11/2026
+- Wifi: radio degli access point su una riga sola (canale, potenza, larghezza in grassetto)
+- Un Cambium passa a «Gestito» solo dopo essere stato letto
+- Access point Cambium: aggiornamento del firmware dal pannello (immagine caricata dall'amministratore, uno alla volta), con la versione consigliata accanto a ogni AP
+
 ## 1.13.14 - 26/11/2026
 - Liste: selezione di più righe con Ctrl e Maiusc, come in Windows (Rimuovi, Attiva e Disattiva su tutte le righe scelte). Wifi: access point in attesa selezionabili allo stesso modo, con un solo bottone Adotta
 
