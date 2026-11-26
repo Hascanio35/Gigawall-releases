@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.05 - 26/11/2026
+- Cambium: bottoni Riavvia e Ripristina, adozione di un AP di fabbrica con la password comune. Utenti e dispositivi: colonne ordinabili. Barra delle liste fissa fino al bordo
+
 ## 1.13.04 - 26/11/2026
 - Accessi al dominio: il riconoscimento non si ferma più (scritture della mappa utenti una alla volta, i cicli ripartono da soli dopo un errore). Liste: la barra Aggiungi/Modifica/Rimuovi resta in vista mentre si scorre.
 
