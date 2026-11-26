@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.14 - 26/11/2026
+- Liste: selezione di più righe con Ctrl e Maiusc, come in Windows (Rimuovi, Attiva e Disattiva su tutte le righe scelte). Wifi: access point in attesa selezionabili allo stesso modo, con un solo bottone Adotta
+
 ## 1.13.13 - 26/11/2026
 - Access point Cambium: dopo un ripristino di fabbrica tornano a trasmettere (paese delle radio), il nome del pannello diventa il nome dell'AP, nessuna modifica mentre un riavvio o un ripristino sono in corso
 
