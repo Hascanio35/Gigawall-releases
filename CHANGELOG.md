@@ -3,6 +3,11 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.06 - 26/11/2026
+- Portale centrale (Manutenzione): il firewall si collega al portale GigaMonitor, spento finché non si inserisce il codice
+- Annuncio ARP degli indirizzi all'avvio e dopo le modifiche di rete
+- Modello GW-107 riconosciuto
+
 ## 1.13.05 - 26/11/2026
 - Cambium: bottoni Riavvia e Ripristina, adozione di un AP di fabbrica con la password comune. Utenti e dispositivi: colonne ordinabili. Barra delle liste fissa fino al bordo
 
