@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.13 - 26/11/2026
+- Access point Cambium: dopo un ripristino di fabbrica tornano a trasmettere (paese delle radio), il nome del pannello diventa il nome dell'AP, nessuna modifica mentre un riavvio o un ripristino sono in corso
+
 ## 1.13.12 - 26/11/2026
 - Log di sistema: scadenza a 30 giorni (regolabile in Sistema > Generale) e richieste DNS tenute fuori
 
