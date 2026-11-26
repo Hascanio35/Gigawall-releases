@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.12 - 26/11/2026
+- Log di sistema: scadenza a 30 giorni (regolabile in Sistema > Generale) e richieste DNS tenute fuori
+
 ## 1.13.11 - 26/11/2026
 - GW-107: il collegamento interno con l'x86 (ntb0) non è una porta
 - GW-107: configurazione di fabbrica sulle porte segnate sul frontale
