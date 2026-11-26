@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.10 - 26/11/2026
+- Portale centrale: VPN mostrate come su/totali
+
 ## 1.13.09 - 26/11/2026
 - Notifiche e-mail: con il portale centrale collegato resta modificabile Quando inviare, e vale per gli avvisi inviati dal portale
 
