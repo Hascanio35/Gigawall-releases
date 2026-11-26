@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.04 - 26/11/2026
+- Accessi al dominio: il riconoscimento non si ferma più (scritture della mappa utenti una alla volta, i cicli ripartono da soli dopo un errore). Liste: la barra Aggiungi/Modifica/Rimuovi resta in vista mentre si scorre.
+
 ## 1.13.03 - 25/11/2026
 - Wifi Cambium cnPilot: l'annullamento del riavvio di sicurezza viene anche attivato sull'access point
 
