@@ -3,6 +3,10 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.11 - 26/11/2026
+- GW-107: il collegamento interno con l'x86 (ntb0) non è una porta
+- GW-107: configurazione di fabbrica sulle porte segnate sul frontale
+
 ## 1.13.10 - 26/11/2026
 - Portale centrale: VPN mostrate come su/totali
 
