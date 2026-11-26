@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.07 - 26/11/2026
+- Il portale centrale può aprire il pannello del firewall senza altra password (si può vietare in Manutenzione, Portale centrale)
+
 ## 1.13.06 - 26/11/2026
 - Portale centrale (Manutenzione): il firewall si collega al portale GigaMonitor, spento finché non si inserisce il codice
 - Annuncio ARP degli indirizzi all'avvio e dopo le modifiche di rete
