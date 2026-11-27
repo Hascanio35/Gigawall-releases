@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.14.02 - 27/11/2026
+- Wifi: i canali scelti da GigaWALL non spostano più un access point a 40 MHz a 2,4 GHz, che restava «non allineato»
+
 ## 1.14.01 - 27/11/2026
 - Wifi: canali degli access point Cambium scelti da GigaWALL, con controllo ogni notte e «Aggiusta adesso» nella scheda Radio
 
