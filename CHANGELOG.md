@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.18 - 27/11/2026
+- Access point Cambium: dopo Applica le modifiche arrivano subito agli access point cambiati, senza aspettare il giro di lettura
+
 ## 1.13.17 - 27/11/2026
 - Access point: bottoni «Gestisci» e «Larghezza canale» sulle righe scelte, descrizione per ogni access point
 
