@@ -3,6 +3,10 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.14.05 - 27/11/2026
+- Voucher: stampa più compatta, 27 tagliandi per foglio invece di 12 (tolta la riga di istruzioni)
+- Voucher: nella stampa il logo del portale al posto della scritta di intestazione
+
 ## 1.14.04 - 27/11/2026
 - Reti wifi: la casella «Portale» dà all'interfaccia un nome valido anche con SSID lunghi (dava errore sul nome)
 
