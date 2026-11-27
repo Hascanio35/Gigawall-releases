@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.14.04 - 27/11/2026
+- Reti wifi: la casella «Portale» dà all'interfaccia un nome valido anche con SSID lunghi (dava errore sul nome)
+
 ## 1.14.03 - 27/11/2026
 - Access point Cambium: niente più «non allineato» quando l'access point risponde a metà mentre applica le modifiche
 
