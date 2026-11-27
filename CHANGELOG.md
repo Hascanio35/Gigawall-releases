@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.17 - 27/11/2026
+- Access point: bottoni «Gestisci» e «Larghezza canale» sulle righe scelte, descrizione per ogni access point
+
 ## 1.13.16 - 27/11/2026
 - Access point Cambium: reti wifi su VLAN (la porta del cavo dell'AP passa a trunk con riavvio di sicurezza)
 - Reti wifi: casella «Portale» su ogni rete
