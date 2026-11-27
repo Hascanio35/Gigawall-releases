@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.14.03 - 27/11/2026
+- Access point Cambium: niente più «non allineato» quando l'access point risponde a metà mentre applica le modifiche
+
 ## 1.14.02 - 27/11/2026
 - Wifi: i canali scelti da GigaWALL non spostano più un access point a 40 MHz a 2,4 GHz, che restava «non allineato»
 
