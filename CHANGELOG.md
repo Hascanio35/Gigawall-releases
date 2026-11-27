@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.14.06 - 27/11/2026
+- VPN IPsec: una sola sessione per sede, il tunnel non si ricostruisce più ogni tre minuti con i peer che ne tengono una sola (Zyxel)
+
 ## 1.14.05 - 27/11/2026
 - Voucher: stampa più compatta, 27 tagliandi per foglio invece di 12 (tolta la riga di istruzioni)
 - Voucher: nella stampa il logo del portale al posto della scritta di intestazione
