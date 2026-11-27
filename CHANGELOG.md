@@ -3,6 +3,11 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.16 - 27/11/2026
+- Access point Cambium: reti wifi su VLAN (la porta del cavo dell'AP passa a trunk con riavvio di sicurezza)
+- Reti wifi: casella «Portale» su ogni rete
+- La rete con il portale esce su una VLAN sua, che il pannello crea da solo
+
 ## 1.13.15 - 26/11/2026
 - Wifi: radio degli access point su una riga sola (canale, potenza, larghezza in grassetto)
 - Un Cambium passa a «Gestito» solo dopo essere stato letto
