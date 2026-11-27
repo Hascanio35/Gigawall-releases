@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.14.01 - 27/11/2026
+- Wifi: canali degli access point Cambium scelti da GigaWALL, con controllo ogni notte e «Aggiusta adesso» nella scheda Radio
+
 ## 1.13.20 - 27/11/2026
 - Wifi: scheda «Radio» per gli access point Cambium, con chi sente chi, access point vicini sullo stesso canale e canali consigliati
 
