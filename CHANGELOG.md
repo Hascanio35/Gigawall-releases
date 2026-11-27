@@ -3,6 +3,9 @@
 Le novità di ogni versione, dalla più recente. I router le mostrano in
 Manutenzione > Aggiornamenti > Note di rilascio.
 
+## 1.13.20 - 27/11/2026
+- Wifi: scheda «Radio» per gli access point Cambium, con chi sente chi, access point vicini sullo stesso canale e canali consigliati
+
 ## 1.13.19 - 27/11/2026
 - Access point Cambium: segnale e velocità dei client nella pagina Client, aggiornati più spesso mentre la pagina è aperta
 - Wifi: striscia «Copertura» nella pagina Client, con il segnale medio dei client per access point nelle ultime 24 ore
